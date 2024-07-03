@@ -13,4 +13,3 @@ AmuScripts is a tool designed for users who wants to manage commands related scr
 # Getting Started
 
 # License
-
